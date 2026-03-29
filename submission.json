@@ -1,0 +1,7 @@
+{
+  "prompt": "A powerful cinematic image of a human lung structure formed by a dense city skyline, where buildings gradually dissolve into thick black smog. The smog spreads outward and fades into darkness, symbolizing death caused by air pollution. The left side shows relatively clear air, while the right side is suffocating and toxic. No text, no labels, no charts. Highly detailed, emotional, dramatic lighting, photorealistic, magazine cover style, volumetric fog, dark color palette",
+  "model": "DALL·E 3",
+  "dataset_name": "Air Pollution Deaths",
+  "dataset_url": "https://ourworldindata.org/air-pollution",
+  "insight": "Air pollution is a leading cause of premature death globally"
+}
