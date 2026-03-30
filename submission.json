@@ -4,4 +4,10 @@
   "dataset_name": "Air Pollution Deaths",
   "dataset_url": "https://ourworldindata.org/air-pollution",
   "insight": "Air pollution is a leading cause of premature death globally"
+  {
+  "prompt": "...same prompt...",
+  "model": "DALL·E 3",
+  "concept": "air pollution",
+  "metaphor": "A city shaped like lungs filling with smoke, representing how pollution damages human breathing and causes death"
+}
 }
